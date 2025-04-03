@@ -9,4 +9,5 @@ transformers
 accelerate
 celery
 redis
-dotenv
+python-dotenv
+pika
